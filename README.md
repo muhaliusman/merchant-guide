@@ -63,7 +63,7 @@ https://golang.org/doc/install
 Clone project to your work directory
 
 ```
-git clone https://bitbucket.org/muhaliusman/merchant-guide.git
+git clone https://github.com/muhaliusman/merchant-guide.git
 ```
 
 
